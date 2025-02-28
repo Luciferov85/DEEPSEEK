@@ -1,0 +1,10 @@
+/data
+  /_messages
+    chat1.txt
+    chat2.json
+  /_documents
+    doc1.pdf
+    doc2.docx
+  /_photos
+    image1.jpg
+    image2.png
